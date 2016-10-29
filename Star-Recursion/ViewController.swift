@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         
         
         
-        printStarsRecursively(number:10, str:"")
+        printStarsRecursively(number:5, str:"")
         
         
     }
